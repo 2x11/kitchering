@@ -1,4 +1,4 @@
 # kitchening
 Home de practica responsive utilizando html y css
 
-![](images/kitchening.png)
+![](mockaps/version-desktop.jpg)
